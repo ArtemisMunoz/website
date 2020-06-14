@@ -7,8 +7,16 @@ googleAnalytics = ""
 enableEmoji = true
 enableRobotsTxt = true
 
+
+# This is what goes in the side bar
+[params.intro]
+  main = "Hi, I'm Artemis Munoz"
+  sub = "Creator ♦ Storyteller ♦ Activist"
+
+
 [params.main]
   latestPublishHeader = "My latest work"
+
 
 [taxonomies]
   design = "designs"
