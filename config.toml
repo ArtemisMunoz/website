@@ -1,0 +1,73 @@
+baseURL = "https://artemismunoz.com/"
+languageCode = "en-au"
+title = "Artemis Munoz"
+theme = "personal-web"
+copyright = "© Artemis Munoz"
+googleAnalytics = ""
+enableEmoji = true
+enableRobotsTxt = true
+
+[params.main]
+  latestPublishHeader = "My latest work"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/images/Artemis.jpg"
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  facebook = "https://www.facebook.com/MunozArtemis/"
+  instagram = "https://www.instagram.com/artemismunoz/"
+
+[params.contact]
+  email = "artemismunoz@gmail.com"
+  text= "Contact me"
+
+
+[menu]
+
+[[menu.main]]
+  identifier = "campfire-stories"
+  name = "Campfire Stories"
+  title = "Campfire Stories"
+  url = "/campfire-stories/"
+
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
