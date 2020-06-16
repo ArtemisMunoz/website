@@ -46,9 +46,29 @@ enableRobotsTxt = true
   favicon = ""
   customCSS = ""
 
-[params.social]
-  facebook = "https://www.facebook.com/MunozArtemis/"
-  instagram = "https://www.instagram.com/artemismunoz/"
+[[params.social]]
+  icon = "facebook"
+  url = "https://www.facebook.com/MunozArtemis/"
+
+[[params.social]]
+  icon = "instagram"
+  url = "https://www.instagram.com/artemismunoz/"
+
+[[params.social]]
+  icon = "youtube"
+  url = "https://www.youtube.com/channel/UCRtKI-BcbJkGn9CwlaprWrg"
+
+[[params.social]]
+  icon = "twitch"
+  url = "https://www.twitch.tv/artemismunoz"
+
+[[params.social]]
+  icon = "patreon"
+  url = "https://www.patreon.com/ArtemisMunoz"
+
+[[params.social]]
+  icon = "twitter"
+  url = "https://twitter.com/ArtemisMunoz"
 
 [params.contact]
   email = "artemismunoz@gmail.com"

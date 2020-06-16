@@ -1,0 +1,5 @@
+{{ range .Site.Params.social }}
+  {{ if .url }}
+    <a href="{{ .url }}" class="social-link" target="_blank" rel="noopener" >{{- partial "svg" (dict "iconName" .icon "size" "35px") -}}</a>
+  {{end}}
+{{ end }}
