@@ -15,13 +15,9 @@ a loving and welcoming space curated by an all-trans team. Each livestream
 features community contributions, prize giveaways, and a moderated community
 chat, all presented live within a secure and private platform.
 
-> Section 3
-> Next Campfire Stories:
-> [Countdown Timer]
-> Book Now (Button)
-
-> Section 4
-> Embeded YouTube Playlist Carousel. Title - Previous Shows
+Next Campfire Stories:
+**17th June 2020**.
+[Book now!](https://www.trybooking.com/book/event?eid=629561)
 
 Campfire Stories evolved out of the Trans Pride Livestreamed Solidarity Cabaret
 on 31 March 2020 by Artemis Munoz and Teddy Darling. It is part of SPARK,
@@ -41,7 +37,9 @@ activist for diversity and access in the arts. Check out their monthly short
 films and original songs on Youtube, and Facebook, and follow them on
 Instagram.
 
-> [Button Links to Socials]
+[Facebook](https://www.facebook.com/MunozArtemis/) /
+[Instagram](https://www.instagram.com/artemismunoz/) /
+[Youtube](https://www.youtube.com/channel/UCRtKI-BcbJkGn9CwlaprWrg)
 
 {{< figure src="gemini.jpg" >}}
 
@@ -50,28 +48,31 @@ burlesque, and the tip-shop. They are the torn stockings of bohemia, the
 smeared lipstick of elegance, and the glint of a VB can in the gutter on
 a starry night. Find them screaming into the void on Facebook, and Instagram.
 
-> [Button Links to Socials]
+[Facebook](https://www.facebook.com/HERAcabaret) /
+[Instagram](https://www.instagram.com/hera_direen/)
 
 ## Submit to Campfire Stories
 
 ### Step 1: Capture your Story in a Video
 
+### Step 2: Submit it to us
+
 Uncaptioned video submissions Due the 22nd.
 Captioned video submissions Due the 29th.
 
-### Step 2: Submit it to us
-
 We go live and tell your stories on the 1st!
 
-> [SUBMISSION GUIDE]
-> [PLAIN TEXT GUIDE]
-> SUBMISSION FORM
+[SUBMISSION GUIDE](https://drive.google.com/file/d/10U2o5GErKaxW7nckBbUEQBAqr3g7hX0k/view) /
+[PLAIN TEXT GUIDE](https://docs.google.com/document/d/1bDqg1hbUGaMjZlKnUjRUhdn-6gChlYimIPecY94gcKg/view) /
+[SUBMISSION FORM](https://docs.google.com/forms/d/e/1FAIpQLSfWJLifOVBl3K3BHbhBnvMjSgQWdgte0fZGhE4DY3Kl-ulKVQ/viewform)
+
+---
 
 ## FAQs
 
 **Where can I get the link for the livestream?**
 
-Once you have booked via [Trybooking](https://www.trybooking.com/BJVHX) we will
+Once you have booked via [Trybooking](https://www.trybooking.com/book/event?eid=629561) we will
 email you the livestream link on 15 June! To make the stream as secure as
 possible, we require everyone to register for the livestream, and we will send
 out registration details with the livestream link.
@@ -145,19 +146,6 @@ video) identify as trans/gender diverse/LGBTQIA+/queer.
 
 ---
 
-## Our Storytellers
-
-> ...
-
 ## Next Show
 
-> ...
-
-## Past Shows
-
-> ...
-
-
-## Supported by
-
-> Sponsor and Funding Body logos...
+The next show is on the 1st of July
