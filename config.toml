@@ -18,9 +18,8 @@ enableRobotsTxt = true
   latestPublishHeader = "My latest work"
 
 
-[taxonomies]
-  design = "designs"
-  tech = "techs"
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
   breadcrumb = true

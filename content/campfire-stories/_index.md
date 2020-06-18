@@ -19,6 +19,10 @@ Next Campfire Stories:
 **1st July 2020**.
 [Book now!](https://www.trybooking.com/book/event?eid=634135&)
 
+## Previous shows
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLg1GEQOxJCxfIZDvpZu_luhYcIghFLnNf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Campfire Stories evolved out of the Trans Pride Livestreamed Solidarity Cabaret
 on 31 March 2020 by Artemis Munoz and Teddy Darling. It is part of SPARK,
 a Transgender Victoria and Victorian Government initiative, and is supported by
