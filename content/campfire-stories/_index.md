@@ -16,8 +16,8 @@ features community contributions, prize giveaways, and a moderated community
 chat, all presented live within a secure and private platform.
 
 Next Campfire Stories:
-**17th June 2020**.
-[Book now!](https://www.trybooking.com/book/event?eid=629561)
+**1st July 2020**.
+[Book now!](https://www.trybooking.com/book/event?eid=634135&)
 
 Campfire Stories evolved out of the Trans Pride Livestreamed Solidarity Cabaret
 on 31 March 2020 by Artemis Munoz and Teddy Darling. It is part of SPARK,
@@ -72,10 +72,11 @@ We go live and tell your stories on the 1st!
 
 **Where can I get the link for the livestream?**
 
-Once you have booked via [Trybooking](https://www.trybooking.com/book/event?eid=629561) we will
-email you the livestream link on 15 June! To make the stream as secure as
-possible, we require everyone to register for the livestream, and we will send
-out registration details with the livestream link.
+Once you have booked via [Trybooking](https://www.trybooking.com/book/event?eid=634135&)
+we will email you the livestream link a few days before the performance!
+To make the stream as secure as possible,
+we require everyone to register for the livestream,
+and we will send out registration details with the livestream link.
 
 
 **Can people under 18 participate?**
@@ -148,4 +149,4 @@ video) identify as trans/gender diverse/LGBTQIA+/queer.
 
 ## Next Show
 
-The next show is on the 1st of July
+The next show is on the 1st of August
